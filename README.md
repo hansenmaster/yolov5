@@ -1,3 +1,6 @@
+Implemented YoloV5 on Ubuntu 20.04, GPU RTX 2080
+source: ultralytics/yolov5
+
 <div align="center">
 <p>
    <a align="left" href="https://ultralytics.com/yolov5" target="_blank">
